@@ -1,3 +1,5 @@
-console.log("Hey, this works!");
+function spiffy () {
+	console.log("Hey, this works!");
+};
 
 
